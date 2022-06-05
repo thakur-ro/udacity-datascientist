@@ -33,3 +33,9 @@ For this project I was interested in conducting exploratory data analysis from e
   - we trained a random forest regressor to perform feature selection for predicting user ratings as well as modeling for user ratings.<br>
 As we had over 27 features, the ones that are found to be most useful to having good user ratings is "number of ratings", "host listings count","monthly price" and "superhost"<br>
 We can conclude that superhosts tend to have great ratings with multiple listings and large number of ratings.
+
+## Licensing, Authors, and Acknowledgements
+
+Licensing for the data and other descriptive information at the [Kaggle link available here].
+
+[Kaggle link available here]: https://www.kaggle.com/airbnb/boston
