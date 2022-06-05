@@ -4,4 +4,4 @@ This serves as a repository for projects done in udacity data scientist nanodegr
 ## Project 1: Writing Data Science Blogpost
 For this project, I have analyzed boston airbnb data from kaggle to answer some questions from perspective of an end user of airbnb.<br>
 [link to notebook](https://github.com/thakur-ro/udacity-datascientist/blob/main/project%201/boston_airbnb.ipynb)<br>
-[link to medium blogpost]() <br>
+[link to medium blogpost](https://medium.com/@rthakur4298/airbnb-data-analysis-for-starters-7c6ff7c9dc2c) <br>
