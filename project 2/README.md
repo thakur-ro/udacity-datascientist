@@ -73,4 +73,4 @@ The project includes a web app where end user can input a new message and get cl
 3. Go to http://0.0.0.0:3001/
 
 ### Licensing, Authors, Acknowledgements, etc.
-Thanks to Udacity for starter code for the web app. 
+Thanks Udacity for the Knowledge and Starter Code
