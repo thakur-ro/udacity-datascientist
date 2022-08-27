@@ -17,6 +17,8 @@ Custom Gym Environment creation and Actor Critic Networks are written in jupyter
 Images Training Q-vals, Mean rewards and Loss plots can be found in outputs folder <br>
 Detailed project writeup/report can be found at [Project Report](https://github.com/thakur-ro/udacity-datascientist/blob/main/Capstone%20Project/Project%20Report.pdf) <br>
 
+### [Medium Article Link](https://medium.com/@rthakur4298/modeling-recommendation-systems-as-reinforcement-learning-problem-a250e0727ea3)
+
 Resources used in project are appropriately cited at the end of project report.
 <br>
 Thank you!
